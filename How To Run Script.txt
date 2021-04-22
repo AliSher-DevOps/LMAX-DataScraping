@@ -1,0 +1,10 @@
+you must have latest python install
+open cmd and type these cmd  
+1. Install by running the command 
+    pip install selenium
+    pip install pandas
+    pip install xlwings
+    pip install workbook
+    pip install openpyxl
+
+2. Once you install selenium open command promt in ur system go to directory/location where u unzip project folder ScriptLMAX go into the ScriptLMAX folder and type python once python interpretor will  start run the script scriptLMAX.py
